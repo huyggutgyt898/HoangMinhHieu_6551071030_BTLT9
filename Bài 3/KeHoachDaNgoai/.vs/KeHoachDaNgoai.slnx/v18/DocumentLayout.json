@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Subject\\visual programming\\BTLT9\\KeHoachDaNgoai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DE82C-6665-0D3A-E7C5-2776733F9BE9}|KeHoachDaNgoai.csproj|d:\\subject\\visual programming\\btlt9\\kehoachdangoai\\formchuyendi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3DE82C-6665-0D3A-E7C5-2776733F9BE9}|KeHoachDaNgoai.csproj|solutionrelative:formchuyendi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DE82C-6665-0D3A-E7C5-2776733F9BE9}|KeHoachDaNgoai.csproj|d:\\subject\\visual programming\\btlt9\\kehoachdangoai\\formchuyendi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3DE82C-6665-0D3A-E7C5-2776733F9BE9}|KeHoachDaNgoai.csproj|solutionrelative:formchuyendi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DE82C-6665-0D3A-E7C5-2776733F9BE9}|KeHoachDaNgoai.csproj|d:\\subject\\visual programming\\btlt9\\kehoachdangoai\\formchuyendi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F3DE82C-6665-0D3A-E7C5-2776733F9BE9}|KeHoachDaNgoai.csproj|solutionrelative:formchuyendi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA73D5E5-C55A-425C-A809-96BF749D65AB}|KeHoachDaNgoai.csproj|D:\\Subject\\visual programming\\BTLT9\\KeHoachDaNgoai\\formchuyendi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA73D5E5-C55A-425C-A809-96BF749D65AB}|KeHoachDaNgoai.csproj|solutionrelative:formchuyendi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DE82C-6665-0D3A-E7C5-2776733F9BE9}|KeHoachDaNgoai.csproj|d:\\subject\\visual programming\\btlt9\\kehoachdangoai\\models\\ql_dangoaicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3DE82C-6665-0D3A-E7C5-2776733F9BE9}|KeHoachDaNgoai.csproj|solutionrelative:models\\ql_dangoaicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\.vsdbgsrc\\f0c686999a1fa1d08f4943d8a9ac15d6990ed3249670062f4aa56fd7a492a7c0\\ApplicationConfiguration.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DE82C-6665-0D3A-E7C5-2776733F9BE9}|KeHoachDaNgoai.csproj|d:\\subject\\visual programming\\btlt9\\kehoachdangoai\\formchuyendi.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5F3DE82C-6665-0D3A-E7C5-2776733F9BE9}|KeHoachDaNgoai.csproj|solutionrelative:formchuyendi.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DE82C-6665-0D3A-E7C5-2776733F9BE9}|KeHoachDaNgoai.csproj|d:\\subject\\visual programming\\btlt9\\kehoachdangoai\\usersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3DE82C-6665-0D3A-E7C5-2776733F9BE9}|KeHoachDaNgoai.csproj|solutionrelative:usersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormChuyenDi.cs [Design]",
+              "DocumentMoniker": "D:\\Subject\\visual programming\\BTLT9\\KeHoachDaNgoai\\FormChuyenDi.cs",
+              "RelativeDocumentMoniker": "FormChuyenDi.cs",
+              "ToolTip": "D:\\Subject\\visual programming\\BTLT9\\KeHoachDaNgoai\\FormChuyenDi.cs [Design]",
+              "RelativeToolTip": "FormChuyenDi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T03:32:26.241Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormChuyenDi.cs",
+              "DocumentMoniker": "D:\\Subject\\visual programming\\BTLT9\\KeHoachDaNgoai\\FormChuyenDi.cs",
+              "RelativeDocumentMoniker": "FormChuyenDi.cs",
+              "ToolTip": "D:\\Subject\\visual programming\\BTLT9\\KeHoachDaNgoai\\FormChuyenDi.cs",
+              "RelativeToolTip": "FormChuyenDi.cs",
+              "ViewState": "AgIAAB0CAAAAAAAAAAAAAB0CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T02:19:27.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormChuyenDi.Designer.cs",
+              "DocumentMoniker": "D:\\Subject\\visual programming\\BTLT9\\KeHoachDaNgoai\\FormChuyenDi.Designer.cs",
+              "RelativeDocumentMoniker": "FormChuyenDi.Designer.cs",
+              "ToolTip": "D:\\Subject\\visual programming\\BTLT9\\KeHoachDaNgoai\\FormChuyenDi.Designer.cs",
+              "RelativeToolTip": "FormChuyenDi.Designer.cs",
+              "ViewState": "AgIAAG4BAAAAAAAAAAAmwI0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T02:43:16.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormChuyenDi.cs [Design]",
+              "DocumentMoniker": "D:\\Subject\\visual programming\\BTLT9\\KeHoachDaNgoai\\FormChuyenDi.cs",
+              "RelativeDocumentMoniker": "FormChuyenDi.cs",
+              "ToolTip": "D:\\Subject\\visual programming\\BTLT9\\KeHoachDaNgoai\\FormChuyenDi.cs [Design]",
+              "RelativeToolTip": "FormChuyenDi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T02:47:06.019Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QL_DaNgoaiContext.cs",
+              "DocumentMoniker": "D:\\Subject\\visual programming\\BTLT9\\KeHoachDaNgoai\\Models\\QL_DaNgoaiContext.cs",
+              "RelativeDocumentMoniker": "Models\\QL_DaNgoaiContext.cs",
+              "ToolTip": "D:\\Subject\\visual programming\\BTLT9\\KeHoachDaNgoai\\Models\\QL_DaNgoaiContext.cs",
+              "RelativeToolTip": "Models\\QL_DaNgoaiContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAawB0AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T03:03:32.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormChuyenDi.resx",
+              "DocumentMoniker": "D:\\Subject\\visual programming\\BTLT9\\KeHoachDaNgoai\\FormChuyenDi.resx",
+              "RelativeDocumentMoniker": "FormChuyenDi.resx",
+              "ToolTip": "D:\\Subject\\visual programming\\BTLT9\\KeHoachDaNgoai\\FormChuyenDi.resx",
+              "RelativeToolTip": "FormChuyenDi.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-19T02:35:46.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationConfiguration.g.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\.vsdbgsrc\\f0c686999a1fa1d08f4943d8a9ac15d6990ed3249670062f4aa56fd7a492a7c0\\ApplicationConfiguration.g.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\.vsdbgsrc\\f0c686999a1fa1d08f4943d8a9ac15d6990ed3249670062f4aa56fd7a492a7c0\\ApplicationConfiguration.g.cs [Read Only]",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T02:53:01.897Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserSettings.cs",
+              "DocumentMoniker": "D:\\Subject\\visual programming\\BTLT9\\KeHoachDaNgoai\\UserSettings.cs",
+              "RelativeDocumentMoniker": "UserSettings.cs",
+              "ToolTip": "D:\\Subject\\visual programming\\BTLT9\\KeHoachDaNgoai\\UserSettings.cs",
+              "RelativeToolTip": "UserSettings.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T02:18:28.594Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

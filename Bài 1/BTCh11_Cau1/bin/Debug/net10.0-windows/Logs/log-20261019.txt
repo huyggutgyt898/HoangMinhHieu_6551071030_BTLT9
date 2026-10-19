@@ -1,0 +1,8 @@
+2026-10-19 10:44:09.085 +07:00 [INF] Ứng dụng khởi động
+2026-10-19 10:44:20.354 +07:00 [INF] Sua chi tieu MaCT=16
+2026-10-19 10:44:42.767 +07:00 [INF] Ứng dụng khởi động
+2026-10-19 10:44:49.320 +07:00 [INF] Xoa chi tieu MaCT=16
+2026-10-19 10:45:08.236 +07:00 [INF] Them chi tieu MaCT=17
+2026-10-19 10:45:44.719 +07:00 [INF] Ứng dụng khởi động
+2026-10-19 10:45:55.127 +07:00 [INF] Xoa chi tieu MaCT=17
+2026-10-19 10:46:14.398 +07:00 [INF] Them chi tieu MaCT=18
